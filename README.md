@@ -7,6 +7,7 @@ Spelen op: https://stud.hosted.hr.nl/0853213/PRG01-8/
 
 ## Besturing:
 Pijltjestoetsen: naar links en rechts bewegen
+
 Spatiebalk: voeren
 
 ## Installatie:
