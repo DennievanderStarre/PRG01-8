@@ -3,6 +3,8 @@
 ## Hungry Fish!
 In deze game is het de bedoeling om de drie verschillende vissen in leven te houden. De ene is een grote eter, terwijl de andere juist veel langer zonder voedsel kan. Daar komt bij dat je op het juiste moment moet voeren, anders zwemt een ander net voorbij en eet het voedsel op! Wanneer alle vissen dood zijn verlies je de game.
 
+Spelen op: https://stud.hosted.hr.nl/0853213/PRG01-8/ 
+
 ## Besturing:
 Pijltjestoetsen: naar links en rechts bewegen
 Spatiebalk: voeren
