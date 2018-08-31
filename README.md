@@ -27,14 +27,14 @@ Open het project in Visual Studio Code
 ![uml](https://github.com/DennievanderStarre/PRG01-8/blob/master/UML.png) 
 
 ## Peer review:
-Pull request: 
-Peer review:
+1. Pull request: https://github.com/Hsnzync/monster-shooter/pull/4
+2. Peer review: https://github.com/Hsnzync/monster-shooter/issues/3
 
 ## Singleton:
 De Singleton is toegepast op cGame. Deze instantieerd zichzelf.
 
 ## Polymorfisme:
-1. De eerste vorm is toegpast op de verschillende vissen die in een vervolgens in een array gepushed worden in cGame. 
+1. De eerste vorm is toegpast op de verschillende vissen die in een vervolgens in een array gepushed worden in cGame. NOTE! Deze had beter gekunt door niet gelijk te erfen van cGame_object, maar er eerst een overkoepelende cFish tussen te plaatsen. Dit had het een en ander aan duplicate code kunnen voorkomen.  
 2. De tweede vorm is toegepast in de vorm van een tweede(!) strategy pattern, namelijk de iStatus_style.
 
 ## Strategy:
