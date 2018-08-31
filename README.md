@@ -12,13 +12,13 @@ Spatiebalk: voeren
 ## Installatie:
 #### Stap 1 (clonen):
 Clone het project naar `localhost`
-- `git clone git@github.com:Hsnzync/monster-shooter.git`
+- `https://github.com/DennievanderStarre/PRG01-8.git`
 
 #### Stap 2 (editen):
 Na het aanpassen van de repository:
-- `git add . / git add -p`
-- `git commit -m "beschrijving"`
-- `git push origin master`
+- `git add [filename] / git add .` 
+- `git commit -m "[opmerking]"`
+- `git push`
 
 #### Stap 3 (runnen / watch):
 Open het project in Visual Studio Code
