@@ -15,7 +15,7 @@ Clone het project naar `localhost`
 - `https://github.com/DennievanderStarre/PRG01-8.git`
 
 #### Stap 2 (editen):
-Na het aanpassen van de repository:
+Na het aanpassen van de file(s):
 - `git add [filename] / git add .` 
 - `git commit -m "[opmerking]"`
 - `git push`
