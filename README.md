@@ -21,7 +21,7 @@ Na het aanpassen van de file(s):
 - `git commit -m "[opmerking]"`
 - `git push`
 
-#### Stap 3 (runnen / watch):
+#### Stap 3 (run / watch TypeScript compiler):
 Open het project in Visual Studio Code
 - Open project in `localhost`
 - Watch: `Ctrl + Shift + B`
